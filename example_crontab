@@ -1,0 +1,1 @@
+*/15 * * * * /home/bh/projects/dns_update/.venv/bin/python /home/bh/projects/dns_update/run.py >/dev/null 2>&1
